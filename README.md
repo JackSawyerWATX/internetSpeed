@@ -62,3 +62,5 @@ Notes and troubleshooting
 
 License
 - This repository contains a tiny utility. Use and modify freely.
+
+I love all of you! Happy coding!
